@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Chicken Adobo",
+    "Price": 75.0,
+    "PrepTimeInMins": 0.25,
+    "CookTimeInMins": 0.25,
+    "IsChefRecommended": true,
+    "Classification": 2
+  },
+  {
+    "Id": 2,
+    "Name": "Caesar Salad",
+    "Price": 50.0,
+    "PrepTimeInMins": 0.25,
+    "CookTimeInMins": 0.25,
+    "IsChefRecommended": true,
+    "Classification": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Chocolate Ice Cream",
+    "Price": 35.0,
+    "PrepTimeInMins": 0.25,
+    "CookTimeInMins": 0.25,
+    "IsChefRecommended": true,
+    "Classification": 3
+  },
+  {
+    "Id": 5,
+    "Name": "Coke",
+    "Price": 15.0,
+    "PrepTimeInMins": 0.25,
+    "CookTimeInMins": 0,
+    "IsChefRecommended": false,
+    "Classification": 4
+  }
+]

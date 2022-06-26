@@ -1,0 +1,22 @@
+[
+  {
+    "IngredientItemId": 1,
+    "MenuId": 1,
+    "RequiredQuantity": 1
+  },
+  {
+    "IngredientItemId": 2,
+    "MenuId": 2,
+    "RequiredQuantity": 1
+  },
+  {
+    "IngredientItemId": 3,
+    "MenuId": 3,
+    "RequiredQuantity": 1
+  },
+  {
+    "IngredientItemId": 4,
+    "MenuId": 4,
+    "RequiredQuantity": 1
+  }
+]

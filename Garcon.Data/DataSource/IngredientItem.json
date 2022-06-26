@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Chicken",
+    "SupplyCount": 10
+  },
+  {
+    "Id": 2,
+    "Name": "Salad",
+    "SupplyCount": 10
+  },
+  {
+    "Id": 3,
+    "Name": "Ice Cream",
+    "SupplyCount": 10
+  },
+  {
+    "Id": 4,
+    "Name": "Coke",
+    "SupplyCount": 10
+  }
+]
